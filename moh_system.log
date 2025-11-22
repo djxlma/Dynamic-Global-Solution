@@ -1,0 +1,549 @@
+2025-11-20 19:57:32,630 - INFO -  INICIANDO: _initialize_skills
+2025-11-20 19:57:32,631 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD970A120>,)
+2025-11-20 19:57:32,631 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,632 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD970A120>, 'S1', 'Programação Básica (Python)', 80, 3, 4, [],...
+2025-11-20 19:57:32,633 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,634 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,634 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD970A120>, 'S2', 'Modelagem de Dados (SQL)', 60, 4, 3, [], 'B...
+2025-11-20 19:57:32,636 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,636 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,637 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD970A120>, 'S3', 'Algoritmos Avançados', 100, 7, 8, ['S1'], '...
+2025-11-20 19:57:32,637 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,638 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,638 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD970A120>, 'S4', 'Fundamentos de Machine Learning', 120, 8, 9...
+2025-11-20 19:57:32,639 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,639 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,640 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD970A120>, 'S5', 'Visualização de Dados (BI)', 40, 6, 5, ['S2...
+2025-11-20 19:57:32,641 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,641 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,642 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD970A120>, 'S6', 'IA Generativa Ética', 150, 10, 10, ['S4'], ...
+2025-11-20 19:57:32,642 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,643 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,644 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD970A120>, 'S7', 'Estruturas em Nuvem (AWS/Azure)', 70, 5, 7,...
+2025-11-20 19:57:32,645 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,645 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,646 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD970A120>, 'S8', 'APIs e Microsserviços', 90, 6, 6, ['S1'], '...
+2025-11-20 19:57:32,647 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,648 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,648 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD970A120>, 'S9', 'DevOps/CI-CD', 110, 9, 8, ['S7', 'S8'], 'Cr...
+2025-11-20 19:57:32,649 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,649 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,650 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD970A120>, 'H10', 'Segurança de Dados', 60, 5, 6, [], 'Lista ...
+2025-11-20 19:57:32,650 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,651 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,651 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD970A120>, 'H11', 'Análise de Big Data', 90, 8, 8, ['S4'], 'L...
+2025-11-20 19:57:32,652 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,653 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,653 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD970A120>, 'H12', 'Introdução a IoT', 30, 3, 3, [], 'Lista Gr...
+2025-11-20 19:57:32,654 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,655 - INFO -  SUCESSO: _initialize_skills concluída
+2025-11-20 19:57:32,670 - INFO -  INICIANDO: _initialize_skills
+2025-11-20 19:57:32,671 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>,)
+2025-11-20 19:57:32,671 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,672 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>, 'S1', 'Programação Básica (Python)', 80, 3, 4, [],...
+2025-11-20 19:57:32,672 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,673 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,673 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>, 'S2', 'Modelagem de Dados (SQL)', 60, 4, 3, [], 'B...
+2025-11-20 19:57:32,673 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,674 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,675 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>, 'S3', 'Algoritmos Avançados', 100, 7, 8, ['S1'], '...
+2025-11-20 19:57:32,676 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,676 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,676 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>, 'S4', 'Fundamentos de Machine Learning', 120, 8, 9...
+2025-11-20 19:57:32,677 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,678 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,679 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>, 'S5', 'Visualização de Dados (BI)', 40, 6, 5, ['S2...
+2025-11-20 19:57:32,679 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,680 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,680 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>, 'S6', 'IA Generativa Ética', 150, 10, 10, ['S4'], ...
+2025-11-20 19:57:32,681 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,682 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,683 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>, 'S7', 'Estruturas em Nuvem (AWS/Azure)', 70, 5, 7,...
+2025-11-20 19:57:32,683 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,684 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,685 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>, 'S8', 'APIs e Microsserviços', 90, 6, 6, ['S1'], '...
+2025-11-20 19:57:32,685 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,686 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,686 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>, 'S9', 'DevOps/CI-CD', 110, 9, 8, ['S7', 'S8'], 'Cr...
+2025-11-20 19:57:32,687 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,688 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,688 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>, 'H10', 'Segurança de Dados', 60, 5, 6, [], 'Lista ...
+2025-11-20 19:57:32,689 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,690 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,690 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>, 'H11', 'Análise de Big Data', 90, 8, 8, ['S4'], 'L...
+2025-11-20 19:57:32,691 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,691 - INFO -  INICIANDO: add_skill
+2025-11-20 19:57:32,692 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>, 'H12', 'Introdução a IoT', 30, 3, 3, [], 'Lista Gr...
+2025-11-20 19:57:32,693 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 19:57:32,693 - INFO -  SUCESSO: _initialize_skills concluída
+2025-11-20 19:57:32,694 - INFO -  INICIANDO: run_all_challenges
+2025-11-20 19:57:32,695 - INFO -  INICIANDO: validate_graph
+2025-11-20 19:57:32,696 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>,)
+2025-11-20 19:57:32,697 - INFO -  SUCESSO: validate_graph concluída
+2025-11-20 19:57:32,698 - INFO -  PERFORMANCE - validate_graph: 3.76 ms | 12.47 KB
+2025-11-20 19:57:32,699 - INFO -  INICIANDO: desafio1_max_value_path
+2025-11-20 19:57:32,700 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>,)
+2025-11-20 19:57:32,702 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 19:57:32,703 - INFO -    Parâmetros posicionais: ('S1', ['S1'], set(), 80, 4, [])
+2025-11-20 19:57:32,704 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 19:57:32,706 - INFO -    Parâmetros posicionais: ('S3', ['S1', 'S3'], {'S1'}, 180, 12, [])
+2025-11-20 19:57:32,707 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 19:57:32,709 - INFO -    Parâmetros posicionais: ('S4', ['S1', 'S3', 'S4'], {'S3', 'S1'}, 300, 21, [])
+2025-11-20 19:57:32,710 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 19:57:32,711 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 19:57:32,712 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 19:57:32,713 - INFO -    Parâmetros posicionais: ('S4', ['S1', 'S4'], {'S1'}, 200, 13, [])
+2025-11-20 19:57:32,714 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 19:57:32,715 - INFO -    Parâmetros posicionais: ('S6', ['S1', 'S4', 'S6'], {'S4', 'S1'}, 350, 23, [])
+2025-11-20 19:57:32,716 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 19:57:32,717 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 19:57:32,718 - INFO -    Parâmetros posicionais: ('H11', ['S1', 'S4', 'H11'], {'S4', 'S1'}, 290, 21, [['S1', 'S4', 'S6']])
+2025-11-20 19:57:32,719 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 19:57:32,720 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 19:57:32,721 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 19:57:32,722 - INFO -    Parâmetros posicionais: ('S8', ['S1', 'S8'], {'S1'}, 170, 10, [['S1', 'S4', 'S6']])
+2025-11-20 19:57:32,724 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 19:57:32,725 - INFO -    Parâmetros posicionais: ('S9', ['S1', 'S8', 'S9'], {'S8', 'S1'}, 280, 18, [['S1', 'S4', 'S6']])
+2025-11-20 19:57:32,729 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 19:57:32,730 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 19:57:32,731 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 19:57:32,732 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 19:57:32,733 - INFO -    Parâmetros posicionais: ('S2', ['S2'], set(), 60, 3, [['S1', 'S4', 'S6']])
+2025-11-20 19:57:32,734 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 19:57:32,735 - INFO -    Parâmetros posicionais: ('S5', ['S2', 'S5'], {'S2'}, 100, 8, [['S1', 'S4', 'S6']])
+2025-11-20 19:57:32,736 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 19:57:32,737 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 19:57:32,738 - INFO -    Parâmetros posicionais: ('S7', ['S2', 'S7'], {'S2'}, 130, 10, [['S1', 'S4', 'S6']])
+2025-11-20 19:57:32,739 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 19:57:32,740 - INFO -    Parâmetros posicionais: ('S9', ['S2', 'S7', 'S9'], {'S2', 'S7'}, 240, 18, [['S1', 'S4', 'S6']])
+2025-11-20 19:57:32,741 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 19:57:32,743 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 19:57:32,744 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 19:57:32,745 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 19:57:32,746 - INFO -    Parâmetros posicionais: ('H10', ['H10'], set(), 60, 6, [['S1', 'S4', 'S6']])
+2025-11-20 19:57:32,746 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 19:57:32,747 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 19:57:32,748 - INFO -    Parâmetros posicionais: ('H12', ['H12'], set(), 30, 3, [['S1', 'S4', 'S6']])
+2025-11-20 19:57:32,749 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 19:57:32,755 - INFO -  SUCESSO: desafio1_max_value_path concluída
+2025-11-20 19:57:32,756 - INFO -  PERFORMANCE - desafio1_max_value_path: 56.62 ms | 75.62 KB
+2025-11-20 19:57:32,756 - INFO -  INICIANDO: desafio2_critical_skills_analysis
+2025-11-20 19:57:32,757 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>,)
+2025-11-20 19:57:32,762 - INFO -  SUCESSO: desafio2_critical_skills_analysis concluída
+2025-11-20 19:57:32,763 - INFO -  PERFORMANCE - desafio2_critical_skills_analysis: 7.02 ms | 58.43 KB
+2025-11-20 19:57:32,764 - INFO -  INICIANDO: desafio3_fast_pivot
+2025-11-20 19:57:32,765 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>,)
+2025-11-20 19:57:32,766 - INFO -  INICIANDO: greedy_selection
+2025-11-20 19:57:32,767 - INFO -    Parâmetros posicionais: (['S1', 'S2'],)
+2025-11-20 19:57:32,768 - INFO -  SUCESSO: greedy_selection concluída
+2025-11-20 19:57:32,769 - INFO -  PERFORMANCE - optimal_exhaustive_search: 0.02 ms | 15.16 KB
+2025-11-20 19:57:32,769 - INFO -  SUCESSO: desafio3_fast_pivot concluída
+2025-11-20 19:57:32,770 - INFO -  PERFORMANCE - desafio3_fast_pivot: 5.88 ms | 0.00 KB
+2025-11-20 19:57:32,770 - INFO -  INICIANDO: desafio4_parallel_tracks
+2025-11-20 19:57:32,771 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>,)
+2025-11-20 19:57:32,790 - INFO -  SUCESSO: desafio4_parallel_tracks concluída
+2025-11-20 19:57:32,791 - INFO -  PERFORMANCE - desafio4_parallel_tracks: 20.78 ms | 281.75 KB
+2025-11-20 19:57:32,792 - INFO -  INICIANDO: desafio5_skill_recommendation
+2025-11-20 19:57:32,793 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>,)
+2025-11-20 19:57:32,794 - INFO -    Parâmetros nomeados: {'current_skills': []}
+2025-11-20 19:57:32,795 - INFO -  INICIANDO: get_market_probabilities
+2025-11-20 19:57:32,795 - INFO -  SUCESSO: get_market_probabilities concluída
+2025-11-20 19:57:32,811 - INFO -  SUCESSO: desafio5_skill_recommendation concluída
+2025-11-20 19:57:32,812 - INFO -  PERFORMANCE - desafio5_skill_recommendation: 20.65 ms | 17.59 KB
+2025-11-20 19:57:32,813 - INFO -  INICIANDO: get_market_probabilities
+2025-11-20 19:57:32,814 - INFO -  SUCESSO: get_market_probabilities concluída
+2025-11-20 19:57:32,815 - INFO -  SUCESSO: run_all_challenges concluída
+2025-11-20 20:21:06,286 - INFO -  INICIANDO: run_all_challenges
+2025-11-20 20:21:06,287 - INFO -  INICIANDO: validate_graph
+2025-11-20 20:21:06,289 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>,)
+2025-11-20 20:21:06,291 - INFO -  SUCESSO: validate_graph concluída
+2025-11-20 20:21:06,292 - INFO -  PERFORMANCE - validate_graph: 5.31 ms | 13.92 KB
+2025-11-20 20:21:06,293 - INFO -  INICIANDO: desafio1_max_value_path
+2025-11-20 20:21:06,294 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>,)
+2025-11-20 20:21:06,295 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:21:06,296 - INFO -    Parâmetros posicionais: ('S1', ['S1'], set(), 80, 4, [])
+2025-11-20 20:21:06,298 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:21:06,300 - INFO -    Parâmetros posicionais: ('S3', ['S1', 'S3'], {'S1'}, 180, 12, [])
+2025-11-20 20:21:06,302 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:21:06,303 - INFO -    Parâmetros posicionais: ('S4', ['S1', 'S3', 'S4'], {'S3', 'S1'}, 300, 21, [])
+2025-11-20 20:21:06,304 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:21:06,305 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:21:06,307 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:21:06,308 - INFO -    Parâmetros posicionais: ('S4', ['S1', 'S4'], {'S1'}, 200, 13, [])
+2025-11-20 20:21:06,310 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:21:06,311 - INFO -    Parâmetros posicionais: ('S6', ['S1', 'S4', 'S6'], {'S4', 'S1'}, 350, 23, [])
+2025-11-20 20:21:06,312 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:21:06,313 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:21:06,315 - INFO -    Parâmetros posicionais: ('H11', ['S1', 'S4', 'H11'], {'S4', 'S1'}, 290, 21, [['S1', 'S4', 'S6']])
+2025-11-20 20:21:06,316 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:21:06,318 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:21:06,319 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:21:06,320 - INFO -    Parâmetros posicionais: ('S8', ['S1', 'S8'], {'S1'}, 170, 10, [['S1', 'S4', 'S6']])
+2025-11-20 20:21:06,321 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:21:06,322 - INFO -    Parâmetros posicionais: ('S9', ['S1', 'S8', 'S9'], {'S8', 'S1'}, 280, 18, [['S1', 'S4', 'S6']])
+2025-11-20 20:21:06,323 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:21:06,327 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:21:06,328 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:21:06,329 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:21:06,331 - INFO -    Parâmetros posicionais: ('S2', ['S2'], set(), 60, 3, [['S1', 'S4', 'S6']])
+2025-11-20 20:21:06,332 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:21:06,333 - INFO -    Parâmetros posicionais: ('S5', ['S2', 'S5'], {'S2'}, 100, 8, [['S1', 'S4', 'S6']])
+2025-11-20 20:21:06,334 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:21:06,335 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:21:06,336 - INFO -    Parâmetros posicionais: ('S7', ['S2', 'S7'], {'S2'}, 130, 10, [['S1', 'S4', 'S6']])
+2025-11-20 20:21:06,337 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:21:06,338 - INFO -    Parâmetros posicionais: ('S9', ['S2', 'S7', 'S9'], {'S2', 'S7'}, 240, 18, [['S1', 'S4', 'S6']])
+2025-11-20 20:21:06,340 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:21:06,341 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:21:06,342 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:21:06,343 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:21:06,344 - INFO -    Parâmetros posicionais: ('H10', ['H10'], set(), 60, 6, [['S1', 'S4', 'S6']])
+2025-11-20 20:21:06,345 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:21:06,346 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:21:06,347 - INFO -    Parâmetros posicionais: ('H12', ['H12'], set(), 30, 3, [['S1', 'S4', 'S6']])
+2025-11-20 20:21:06,349 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:21:06,354 - INFO -  SUCESSO: desafio1_max_value_path concluída
+2025-11-20 20:21:06,356 - INFO -  PERFORMANCE - desafio1_max_value_path: 63.00 ms | 69.72 KB
+2025-11-20 20:21:06,358 - INFO -  INICIANDO: desafio2_critical_skills_analysis
+2025-11-20 20:21:06,360 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>,)
+2025-11-20 20:21:06,365 - INFO -  SUCESSO: desafio2_critical_skills_analysis concluída
+2025-11-20 20:21:06,366 - INFO -  PERFORMANCE - desafio2_critical_skills_analysis: 7.37 ms | 47.04 KB
+2025-11-20 20:21:06,367 - INFO -  INICIANDO: desafio3_fast_pivot
+2025-11-20 20:21:06,368 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>,)
+2025-11-20 20:21:06,369 - INFO -  INICIANDO: greedy_selection
+2025-11-20 20:21:06,370 - INFO -    Parâmetros posicionais: (['S1', 'S2'],)
+2025-11-20 20:21:06,372 - INFO -  SUCESSO: greedy_selection concluída
+2025-11-20 20:21:06,373 - INFO -  PERFORMANCE - optimal_exhaustive_search: 0.02 ms | 14.95 KB
+2025-11-20 20:21:06,373 - INFO -  SUCESSO: desafio3_fast_pivot concluída
+2025-11-20 20:21:06,374 - INFO -  PERFORMANCE - desafio3_fast_pivot: 7.12 ms | 0.00 KB
+2025-11-20 20:21:06,374 - INFO -  INICIANDO: desafio4_parallel_tracks
+2025-11-20 20:21:06,375 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>,)
+2025-11-20 20:21:06,395 - INFO -  SUCESSO: desafio4_parallel_tracks concluída
+2025-11-20 20:21:06,396 - INFO -  PERFORMANCE - desafio4_parallel_tracks: 22.15 ms | 264.80 KB
+2025-11-20 20:21:06,397 - INFO -  INICIANDO: desafio5_skill_recommendation
+2025-11-20 20:21:06,400 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001DDD96C3610>,)
+2025-11-20 20:21:06,401 - INFO -    Parâmetros nomeados: {'current_skills': []}
+2025-11-20 20:21:06,403 - INFO -  INICIANDO: get_market_probabilities
+2025-11-20 20:21:06,404 - INFO -  SUCESSO: get_market_probabilities concluída
+2025-11-20 20:21:06,421 - INFO -  SUCESSO: desafio5_skill_recommendation concluída
+2025-11-20 20:21:06,423 - INFO -  PERFORMANCE - desafio5_skill_recommendation: 26.22 ms | 13.96 KB
+2025-11-20 20:21:06,424 - INFO -  INICIANDO: get_market_probabilities
+2025-11-20 20:21:06,425 - INFO -  SUCESSO: get_market_probabilities concluída
+2025-11-20 20:21:06,426 - INFO -  SUCESSO: run_all_challenges concluída
+2025-11-20 20:28:35,206 - INFO -  INICIANDO: _initialize_skills
+2025-11-20 20:28:35,207 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A61A120>,)
+2025-11-20 20:28:35,208 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,209 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A61A120>, 'S1', 'Programação Básica (Python)', 80, 3, 4, [],...
+2025-11-20 20:28:35,209 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,209 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,210 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A61A120>, 'S2', 'Modelagem de Dados (SQL)', 60, 4, 3, [], 'B...
+2025-11-20 20:28:35,210 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,211 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,212 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A61A120>, 'S3', 'Algoritmos Avançados', 100, 7, 8, ['S1'], '...
+2025-11-20 20:28:35,212 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,213 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,213 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A61A120>, 'S4', 'Fundamentos de Machine Learning', 120, 8, 9...
+2025-11-20 20:28:35,214 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,215 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,215 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A61A120>, 'S5', 'Visualização de Dados (BI)', 40, 6, 5, ['S2...
+2025-11-20 20:28:35,216 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,216 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,217 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A61A120>, 'S6', 'IA Generativa Ética', 150, 10, 10, ['S4'], ...
+2025-11-20 20:28:35,217 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,217 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,218 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A61A120>, 'S7', 'Estruturas em Nuvem (AWS/Azure)', 70, 5, 7,...
+2025-11-20 20:28:35,219 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,220 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,220 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A61A120>, 'S8', 'APIs e Microsserviços', 90, 6, 6, ['S1'], '...
+2025-11-20 20:28:35,221 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,222 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,222 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A61A120>, 'S9', 'DevOps/CI-CD', 110, 9, 8, ['S7', 'S8'], 'Cr...
+2025-11-20 20:28:35,223 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,224 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,224 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A61A120>, 'H10', 'Segurança de Dados', 60, 5, 6, [], 'Lista ...
+2025-11-20 20:28:35,225 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,225 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,226 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A61A120>, 'H11', 'Análise de Big Data', 90, 8, 8, ['S4'], 'L...
+2025-11-20 20:28:35,226 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,227 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,227 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A61A120>, 'H12', 'Introdução a IoT', 30, 3, 3, [], 'Lista Gr...
+2025-11-20 20:28:35,229 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,230 - INFO -  SUCESSO: _initialize_skills concluída
+2025-11-20 20:28:35,236 - INFO -  INICIANDO: _initialize_skills
+2025-11-20 20:28:35,236 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>,)
+2025-11-20 20:28:35,237 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,237 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>, 'S1', 'Programação Básica (Python)', 80, 3, 4, [],...
+2025-11-20 20:28:35,238 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,238 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,239 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>, 'S2', 'Modelagem de Dados (SQL)', 60, 4, 3, [], 'B...
+2025-11-20 20:28:35,240 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,240 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,241 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>, 'S3', 'Algoritmos Avançados', 100, 7, 8, ['S1'], '...
+2025-11-20 20:28:35,241 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,242 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,243 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>, 'S4', 'Fundamentos de Machine Learning', 120, 8, 9...
+2025-11-20 20:28:35,244 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,244 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,245 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>, 'S5', 'Visualização de Dados (BI)', 40, 6, 5, ['S2...
+2025-11-20 20:28:35,245 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,245 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,246 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>, 'S6', 'IA Generativa Ética', 150, 10, 10, ['S4'], ...
+2025-11-20 20:28:35,246 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,247 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,247 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>, 'S7', 'Estruturas em Nuvem (AWS/Azure)', 70, 5, 7,...
+2025-11-20 20:28:35,247 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,248 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,248 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>, 'S8', 'APIs e Microsserviços', 90, 6, 6, ['S1'], '...
+2025-11-20 20:28:35,248 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,249 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,250 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>, 'S9', 'DevOps/CI-CD', 110, 9, 8, ['S7', 'S8'], 'Cr...
+2025-11-20 20:28:35,251 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,251 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,252 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>, 'H10', 'Segurança de Dados', 60, 5, 6, [], 'Lista ...
+2025-11-20 20:28:35,252 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,253 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,254 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>, 'H11', 'Análise de Big Data', 90, 8, 8, ['S4'], 'L...
+2025-11-20 20:28:35,255 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,255 - INFO -  INICIANDO: add_skill
+2025-11-20 20:28:35,256 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>, 'H12', 'Introdução a IoT', 30, 3, 3, [], 'Lista Gr...
+2025-11-20 20:28:35,256 - INFO -  SUCESSO: add_skill concluída
+2025-11-20 20:28:35,257 - INFO -  SUCESSO: _initialize_skills concluída
+2025-11-20 20:28:35,257 - INFO -  INICIANDO: run_all_challenges
+2025-11-20 20:28:35,259 - INFO -  INICIANDO: validate_graph
+2025-11-20 20:28:35,260 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>,)
+2025-11-20 20:28:35,261 - INFO -  SUCESSO: validate_graph concluída
+2025-11-20 20:28:35,262 - INFO -  PERFORMANCE - validate_graph: 3.29 ms | 13.15 KB
+2025-11-20 20:28:35,264 - INFO -  INICIANDO: desafio1_max_value_path
+2025-11-20 20:28:35,265 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>,)
+2025-11-20 20:28:35,266 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:28:35,267 - INFO -    Parâmetros posicionais: ('S1', ['S1'], set(), 80, 4, [])
+2025-11-20 20:28:35,268 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:28:35,270 - INFO -    Parâmetros posicionais: ('S3', ['S1', 'S3'], {'S1'}, 180, 12, [])
+2025-11-20 20:28:35,271 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:28:35,273 - INFO -    Parâmetros posicionais: ('S4', ['S1', 'S3', 'S4'], {'S1', 'S3'}, 300, 21, [])
+2025-11-20 20:28:35,275 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:28:35,276 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:28:35,277 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:28:35,278 - INFO -    Parâmetros posicionais: ('S4', ['S1', 'S4'], {'S1'}, 200, 13, [])
+2025-11-20 20:28:35,279 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:28:35,280 - INFO -    Parâmetros posicionais: ('S6', ['S1', 'S4', 'S6'], {'S1', 'S4'}, 350, 23, [])
+2025-11-20 20:28:35,281 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:28:35,282 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:28:35,284 - INFO -    Parâmetros posicionais: ('H11', ['S1', 'S4', 'H11'], {'S1', 'S4'}, 290, 21, [['S1', 'S4', 'S6']])
+2025-11-20 20:28:35,285 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:28:35,286 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:28:35,290 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:28:35,293 - INFO -    Parâmetros posicionais: ('S8', ['S1', 'S8'], {'S1'}, 170, 10, [['S1', 'S4', 'S6']])
+2025-11-20 20:28:35,296 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:28:35,297 - INFO -    Parâmetros posicionais: ('S9', ['S1', 'S8', 'S9'], {'S8', 'S1'}, 280, 18, [['S1', 'S4', 'S6']])
+2025-11-20 20:28:35,299 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:28:35,300 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:28:35,301 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:28:35,302 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:28:35,303 - INFO -    Parâmetros posicionais: ('S2', ['S2'], set(), 60, 3, [['S1', 'S4', 'S6']])
+2025-11-20 20:28:35,304 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:28:35,305 - INFO -    Parâmetros posicionais: ('S5', ['S2', 'S5'], {'S2'}, 100, 8, [['S1', 'S4', 'S6']])
+2025-11-20 20:28:35,306 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:28:35,307 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:28:35,308 - INFO -    Parâmetros posicionais: ('S7', ['S2', 'S7'], {'S2'}, 130, 10, [['S1', 'S4', 'S6']])
+2025-11-20 20:28:35,309 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:28:35,310 - INFO -    Parâmetros posicionais: ('S9', ['S2', 'S7', 'S9'], {'S7', 'S2'}, 240, 18, [['S1', 'S4', 'S6']])
+2025-11-20 20:28:35,312 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:28:35,313 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:28:35,314 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:28:35,316 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:28:35,317 - INFO -    Parâmetros posicionais: ('H10', ['H10'], set(), 60, 6, [['S1', 'S4', 'S6']])
+2025-11-20 20:28:35,318 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:28:35,320 - INFO -  INICIANDO: find_feasible_paths
+2025-11-20 20:28:35,322 - INFO -    Parâmetros posicionais: ('H12', ['H12'], set(), 30, 3, [['S1', 'S4', 'S6']])
+2025-11-20 20:28:35,323 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-20 20:28:35,328 - INFO -  SUCESSO: desafio1_max_value_path concluída
+2025-11-20 20:28:35,329 - INFO -  PERFORMANCE - desafio1_max_value_path: 65.87 ms | 77.60 KB
+2025-11-20 20:28:35,330 - INFO -  INICIANDO: desafio2_critical_skills_analysis
+2025-11-20 20:28:35,331 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>,)
+2025-11-20 20:28:35,336 - INFO -  SUCESSO: desafio2_critical_skills_analysis concluída
+2025-11-20 20:28:35,337 - INFO -  PERFORMANCE - desafio2_critical_skills_analysis: 7.12 ms | 63.71 KB
+2025-11-20 20:28:35,338 - INFO -  INICIANDO: desafio3_fast_pivot
+2025-11-20 20:28:35,338 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>,)
+2025-11-20 20:28:35,340 - INFO -  INICIANDO: greedy_selection
+2025-11-20 20:28:35,341 - INFO -    Parâmetros posicionais: (['S1', 'S2'],)
+2025-11-20 20:28:35,343 - INFO -  SUCESSO: greedy_selection concluída
+2025-11-20 20:28:35,344 - INFO -  PERFORMANCE - optimal_exhaustive_search: 0.02 ms | 15.02 KB
+2025-11-20 20:28:35,344 - INFO -  SUCESSO: desafio3_fast_pivot concluída
+2025-11-20 20:28:35,344 - INFO -  PERFORMANCE - desafio3_fast_pivot: 6.97 ms | 0.00 KB
+2025-11-20 20:28:35,345 - INFO -  INICIANDO: desafio4_parallel_tracks
+2025-11-20 20:28:35,346 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>,)
+2025-11-20 20:28:35,365 - INFO -  SUCESSO: desafio4_parallel_tracks concluída
+2025-11-20 20:28:35,368 - INFO -  PERFORMANCE - desafio4_parallel_tracks: 23.34 ms | 268.34 KB
+2025-11-20 20:28:35,369 - INFO -  INICIANDO: desafio5_skill_recommendation
+2025-11-20 20:28:35,370 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x000001A46A5CDF90>,)
+2025-11-20 20:28:35,371 - INFO -    Parâmetros nomeados: {'current_skills': []}
+2025-11-20 20:28:35,372 - INFO -  INICIANDO: get_market_probabilities
+2025-11-20 20:28:35,372 - INFO -  SUCESSO: get_market_probabilities concluída
+2025-11-20 20:28:35,389 - INFO -  SUCESSO: desafio5_skill_recommendation concluída
+2025-11-20 20:28:35,390 - INFO -  PERFORMANCE - desafio5_skill_recommendation: 21.60 ms | 17.26 KB
+2025-11-20 20:28:35,391 - INFO -  INICIANDO: get_market_probabilities
+2025-11-20 20:28:35,391 - INFO -  SUCESSO: get_market_probabilities concluída
+2025-11-20 20:28:35,392 - INFO -  SUCESSO: run_all_challenges concluída
+2025-11-21 22:27:38,818 - INFO -  INICIANDO: _initialize_skills
+2025-11-21 22:27:38,820 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650DCE120>,)
+2025-11-21 22:27:38,821 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,822 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650DCE120>, 'S1', 'Programação Básica (Python)', 80, 3, 4, [],...
+2025-11-21 22:27:38,823 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,824 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,825 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650DCE120>, 'S2', 'Modelagem de Dados (SQL)', 60, 4, 3, [], 'B...
+2025-11-21 22:27:38,825 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,826 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,827 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650DCE120>, 'S3', 'Algoritmos Avançados', 100, 7, 8, ['S1'], '...
+2025-11-21 22:27:38,828 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,829 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,830 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650DCE120>, 'S4', 'Fundamentos de Machine Learning', 120, 8, 9...
+2025-11-21 22:27:38,830 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,831 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,832 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650DCE120>, 'S5', 'Visualização de Dados (BI)', 40, 6, 5, ['S2...
+2025-11-21 22:27:38,833 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,834 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,835 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650DCE120>, 'S6', 'IA Generativa Ética', 150, 10, 10, ['S4'], ...
+2025-11-21 22:27:38,836 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,837 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,838 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650DCE120>, 'S7', 'Estruturas em Nuvem (AWS/Azure)', 70, 5, 7,...
+2025-11-21 22:27:38,839 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,840 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,842 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650DCE120>, 'S8', 'APIs e Microsserviços', 90, 6, 6, ['S1'], '...
+2025-11-21 22:27:38,843 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,844 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,845 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650DCE120>, 'S9', 'DevOps/CI-CD', 110, 9, 8, ['S7', 'S8'], 'Cr...
+2025-11-21 22:27:38,846 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,849 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,850 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650DCE120>, 'H10', 'Segurança de Dados', 60, 5, 6, [], 'Lista ...
+2025-11-21 22:27:38,852 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,853 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,854 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650DCE120>, 'H11', 'Análise de Big Data', 90, 8, 8, ['S4'], 'L...
+2025-11-21 22:27:38,855 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,857 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,858 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650DCE120>, 'H12', 'Introdução a IoT', 30, 3, 3, [], 'Lista Gr...
+2025-11-21 22:27:38,859 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,860 - INFO -  SUCESSO: _initialize_skills concluída
+2025-11-21 22:27:38,884 - INFO -  INICIANDO: _initialize_skills
+2025-11-21 22:27:38,885 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>,)
+2025-11-21 22:27:38,886 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,887 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>, 'S1', 'Programação Básica (Python)', 80, 3, 4, [],...
+2025-11-21 22:27:38,888 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,889 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,890 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>, 'S2', 'Modelagem de Dados (SQL)', 60, 4, 3, [], 'B...
+2025-11-21 22:27:38,891 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,892 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,893 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>, 'S3', 'Algoritmos Avançados', 100, 7, 8, ['S1'], '...
+2025-11-21 22:27:38,894 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,895 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,896 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>, 'S4', 'Fundamentos de Machine Learning', 120, 8, 9...
+2025-11-21 22:27:38,897 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,898 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,899 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>, 'S5', 'Visualização de Dados (BI)', 40, 6, 5, ['S2...
+2025-11-21 22:27:38,900 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,900 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,901 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>, 'S6', 'IA Generativa Ética', 150, 10, 10, ['S4'], ...
+2025-11-21 22:27:38,901 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,902 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,904 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>, 'S7', 'Estruturas em Nuvem (AWS/Azure)', 70, 5, 7,...
+2025-11-21 22:27:38,905 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,905 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,906 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>, 'S8', 'APIs e Microsserviços', 90, 6, 6, ['S1'], '...
+2025-11-21 22:27:38,907 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,908 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,908 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>, 'S9', 'DevOps/CI-CD', 110, 9, 8, ['S7', 'S8'], 'Cr...
+2025-11-21 22:27:38,909 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,911 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,912 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>, 'H10', 'Segurança de Dados', 60, 5, 6, [], 'Lista ...
+2025-11-21 22:27:38,913 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,914 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,916 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>, 'H11', 'Análise de Big Data', 90, 8, 8, ['S4'], 'L...
+2025-11-21 22:27:38,917 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,918 - INFO -  INICIANDO: add_skill
+2025-11-21 22:27:38,919 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>, 'H12', 'Introdução a IoT', 30, 3, 3, [], 'Lista Gr...
+2025-11-21 22:27:38,921 - INFO -  SUCESSO: add_skill concluída
+2025-11-21 22:27:38,922 - INFO -  SUCESSO: _initialize_skills concluída
+2025-11-21 22:27:38,923 - INFO -  INICIANDO: run_all_challenges
+2025-11-21 22:27:38,925 - INFO -  INICIANDO: validate_graph
+2025-11-21 22:27:38,928 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>,)
+2025-11-21 22:27:38,931 - INFO -  SUCESSO: validate_graph concluída
+2025-11-21 22:27:38,934 - INFO -  PERFORMANCE - validate_graph: 8.99 ms | 11.38 KB
+2025-11-21 22:27:38,936 - INFO -  INICIANDO: desafio1_max_value_path
+2025-11-21 22:27:38,939 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>,)
+2025-11-21 22:27:38,941 - INFO -  INICIANDO: find_feasible_paths
+2025-11-21 22:27:38,943 - INFO -    Parâmetros posicionais: ('S1', ['S1'], set(), 80, 4, [])
+2025-11-21 22:27:38,946 - INFO -  INICIANDO: find_feasible_paths
+2025-11-21 22:27:38,948 - INFO -    Parâmetros posicionais: ('S3', ['S1', 'S3'], {'S1'}, 180, 12, [])
+2025-11-21 22:27:38,951 - INFO -  INICIANDO: find_feasible_paths
+2025-11-21 22:27:38,957 - INFO -    Parâmetros posicionais: ('S4', ['S1', 'S3', 'S4'], {'S1', 'S3'}, 300, 21, [])
+2025-11-21 22:27:38,960 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-21 22:27:38,962 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-21 22:27:38,965 - INFO -  INICIANDO: find_feasible_paths
+2025-11-21 22:27:38,971 - INFO -    Parâmetros posicionais: ('S4', ['S1', 'S4'], {'S1'}, 200, 13, [])
+2025-11-21 22:27:38,974 - INFO -  INICIANDO: find_feasible_paths
+2025-11-21 22:27:38,978 - INFO -    Parâmetros posicionais: ('S6', ['S1', 'S4', 'S6'], {'S1', 'S4'}, 350, 23, [])
+2025-11-21 22:27:38,980 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-21 22:27:38,983 - INFO -  INICIANDO: find_feasible_paths
+2025-11-21 22:27:38,985 - INFO -    Parâmetros posicionais: ('H11', ['S1', 'S4', 'H11'], {'S1', 'S4'}, 290, 21, [['S1', 'S4', 'S6']])
+2025-11-21 22:27:38,988 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-21 22:27:38,990 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-21 22:27:38,996 - INFO -  INICIANDO: find_feasible_paths
+2025-11-21 22:27:39,000 - INFO -    Parâmetros posicionais: ('S8', ['S1', 'S8'], {'S1'}, 170, 10, [['S1', 'S4', 'S6']])
+2025-11-21 22:27:39,004 - INFO -  INICIANDO: find_feasible_paths
+2025-11-21 22:27:39,007 - INFO -    Parâmetros posicionais: ('S9', ['S1', 'S8', 'S9'], {'S1', 'S8'}, 280, 18, [['S1', 'S4', 'S6']])
+2025-11-21 22:27:39,011 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-21 22:27:39,016 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-21 22:27:39,018 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-21 22:27:39,021 - INFO -  INICIANDO: find_feasible_paths
+2025-11-21 22:27:39,024 - INFO -    Parâmetros posicionais: ('S2', ['S2'], set(), 60, 3, [['S1', 'S4', 'S6']])
+2025-11-21 22:27:39,026 - INFO -  INICIANDO: find_feasible_paths
+2025-11-21 22:27:39,029 - INFO -    Parâmetros posicionais: ('S5', ['S2', 'S5'], {'S2'}, 100, 8, [['S1', 'S4', 'S6']])
+2025-11-21 22:27:39,031 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-21 22:27:39,035 - INFO -  INICIANDO: find_feasible_paths
+2025-11-21 22:27:39,041 - INFO -    Parâmetros posicionais: ('S7', ['S2', 'S7'], {'S2'}, 130, 10, [['S1', 'S4', 'S6']])
+2025-11-21 22:27:39,046 - INFO -  INICIANDO: find_feasible_paths
+2025-11-21 22:27:39,048 - INFO -    Parâmetros posicionais: ('S9', ['S2', 'S7', 'S9'], {'S2', 'S7'}, 240, 18, [['S1', 'S4', 'S6']])
+2025-11-21 22:27:39,052 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-21 22:27:39,054 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-21 22:27:39,058 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-21 22:27:39,062 - INFO -  INICIANDO: find_feasible_paths
+2025-11-21 22:27:39,065 - INFO -    Parâmetros posicionais: ('H10', ['H10'], set(), 60, 6, [['S1', 'S4', 'S6']])
+2025-11-21 22:27:39,068 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-21 22:27:39,071 - INFO -  INICIANDO: find_feasible_paths
+2025-11-21 22:27:39,075 - INFO -    Parâmetros posicionais: ('H12', ['H12'], set(), 30, 3, [['S1', 'S4', 'S6']])
+2025-11-21 22:27:39,077 - INFO -  SUCESSO: find_feasible_paths concluída
+2025-11-21 22:27:39,095 - INFO -  SUCESSO: desafio1_max_value_path concluída
+2025-11-21 22:27:39,097 - INFO -  PERFORMANCE - desafio1_max_value_path: 161.35 ms | 72.42 KB
+2025-11-21 22:27:39,100 - INFO -  INICIANDO: desafio2_critical_skills_analysis
+2025-11-21 22:27:39,103 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>,)
+2025-11-21 22:27:39,108 - INFO -  INICIANDO: validate_graph
+2025-11-21 22:27:39,112 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>,)
+2025-11-21 22:27:39,115 - INFO -  SUCESSO: validate_graph concluída
+2025-11-21 22:27:39,118 - INFO -  PERFORMANCE - validate_graph: 9.60 ms | 14.46 KB
+2025-11-21 22:27:39,121 - INFO -  SUCESSO: desafio2_critical_skills_analysis concluída
+2025-11-21 22:27:39,123 - INFO -  PERFORMANCE - desafio2_critical_skills_analysis: 22.93 ms | 0.00 KB
+2025-11-21 22:27:39,124 - INFO -  INICIANDO: desafio3_fast_pivot
+2025-11-21 22:27:39,127 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>,)
+2025-11-21 22:27:39,130 - INFO -  INICIANDO: greedy_selection
+2025-11-21 22:27:39,133 - INFO -    Parâmetros posicionais: (['S1', 'S2'],)
+2025-11-21 22:27:39,137 - INFO -  SUCESSO: greedy_selection concluída
+2025-11-21 22:27:39,140 - INFO -  PERFORMANCE - optimal_exhaustive_search: 0.16 ms | 13.45 KB
+2025-11-21 22:27:39,141 - INFO -  SUCESSO: desafio3_fast_pivot concluída
+2025-11-21 22:27:39,142 - INFO -  PERFORMANCE - desafio3_fast_pivot: 18.30 ms | 0.00 KB
+2025-11-21 22:27:39,144 - INFO -  INICIANDO: desafio4_parallel_tracks
+2025-11-21 22:27:39,146 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>,)
+2025-11-21 22:27:39,179 - INFO -  SUCESSO: desafio4_parallel_tracks concluída
+2025-11-21 22:27:39,183 - INFO -  PERFORMANCE - desafio4_parallel_tracks: 38.77 ms | 265.40 KB
+2025-11-21 22:27:39,184 - INFO -  INICIANDO: desafio5_skill_recommendation
+2025-11-21 22:27:39,186 - INFO -    Parâmetros posicionais: (<grafo.SkillGraph object at 0x0000017650D83750>,)
+2025-11-21 22:27:39,187 - INFO -    Parâmetros nomeados: {'current_skills': []}
+2025-11-21 22:27:39,189 - INFO -  INICIANDO: get_market_probabilities
+2025-11-21 22:27:39,191 - INFO -  SUCESSO: get_market_probabilities concluída
+2025-11-21 22:27:39,217 - INFO -  SUCESSO: desafio5_skill_recommendation concluída
+2025-11-21 22:27:39,219 - INFO -  PERFORMANCE - desafio5_skill_recommendation: 34.86 ms | 15.33 KB
+2025-11-21 22:27:39,219 - INFO -  INICIANDO: get_market_probabilities
+2025-11-21 22:27:39,220 - INFO -  SUCESSO: get_market_probabilities concluída
+2025-11-21 22:27:39,221 - INFO -  INICIANDO: generate_technical_report
+2025-11-21 22:27:39,221 - INFO -    Parâmetros posicionais: ({'stochastic_solution': {'path': ['S1', 'S4', 'S6'], 'value': 21, 'time': 350, 'complexity': 23, 'e...
+2025-11-21 22:27:39,226 - INFO -  SUCESSO: generate_technical_report concluída
+2025-11-21 22:27:39,227 - INFO -  SUCESSO: run_all_challenges concluída
